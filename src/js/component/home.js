@@ -1,5 +1,5 @@
 import React from "react";
-import { KelvinToCelsius } from "kelvinWeather.js";
+import { KelvinToCelsius } from "./kelvinWeather";
 
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
